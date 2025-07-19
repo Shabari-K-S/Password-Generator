@@ -68,7 +68,7 @@ A fast and secure API built with FastAPI to generate cryptographically strong pa
 
 ```bash
 git clone https://github.com/Shabari-K-S/Password-Generator.git
-cd strong-password-generator-api
+cd Password-Generator
 ```
 
 ### 2. Install dependencies
